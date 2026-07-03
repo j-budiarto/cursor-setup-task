@@ -26,7 +26,7 @@
 - Used Command Palette (Ctrl + Shift + P) to access Claude Code and login to Anthropic using Gmail
 - Used Command Palette (Ctrl + Shift + P) to access Codex and login using ChatGPT account
 - Try using a dummy project and use the extensions to check if the extensions is connected (Claude Code and Codex)
-- Use Terminal in Cursor to set name and email for Git 
+- Use Terminal in Cursor to set name and email for Git  
 [git config --global user.name "Name"]
 [git config --global user.email "email@email.com"]
 
