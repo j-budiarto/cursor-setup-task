@@ -95,13 +95,13 @@ This ensures a balanced perspective across both:
 ## Repository Structure
 
 /research  
-|--- sources.md # Curated list of SEO experts with annotations  
-|--- linkedin-posts/ # Posts organized by author  
-|--- youtube-transcripts/ # Transcripts collected via script (where available)  
-|--- other/ # Additional materials (if any)
+|--- sources.md ##Curated list of SEO experts with annotations  
+|--- linkedin-posts/ ##Posts organized by author  
+|--- youtube-transcripts/ ##Transcripts collected via script (where available)  
+|--- other/ ##Additional materials (if any)
 
 /scripts  
-|--- youtube_fetcher.py # Script to fetch YouTube transcripts
+|--- youtube_fetcher.py #Script to fetch YouTube transcripts
 
 ---
 
