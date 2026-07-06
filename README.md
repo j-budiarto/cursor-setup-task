@@ -57,10 +57,10 @@ The following research materials were collected:
 - Supporting materials (where available)
 
 All data is organized inside:
-/research
-├── sources.md
-├── linkedin-posts/
-├── youtube-transcripts/
+/research  
+|--- sources.md  
+|--- linkedin-posts/  
+|--- youtube-transcripts/  
 
 Each LinkedIn post is structured with:
 - Author  
@@ -94,14 +94,14 @@ This ensures a balanced perspective across both:
 
 ## Repository Structure
 
-/research
-├── sources.md # Curated list of SEO experts with annotations
-├── linkedin-posts/ # Posts organized by author
-├── youtube-transcripts/ # Transcripts collected via script (where available)
-├── other/ # Additional materials (if any)
+/research  
+|--- sources.md # Curated list of SEO experts with annotations  
+|--- linkedin-posts/ # Posts organized by author  
+|--- youtube-transcripts/ # Transcripts collected via script (where available)  
+|--- other/ # Additional materials (if any)
 
-/scripts
-└── youtube_fetcher.py # Script to fetch YouTube transcripts
+/scripts  
+|--- youtube_fetcher.py # Script to fetch YouTube transcripts
 
 ---
 
