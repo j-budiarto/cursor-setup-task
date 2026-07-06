@@ -1,125 +1,187 @@
 # Research Sources - AI-Powered SEO Content Production
 
-This document lists experts selected for research on AI-powered SEO content production.
-All experts are active practitioners in SEO, content marketing, and AI-driven search.
+This dataset contains selected experts in SEO, content strategy, and search optimization.  
+Each source was chosen based on their active work in SEO and relevance to AI-powered content production and search trends.
 
 ---
 
-## 1. Aleyda Solis
+# 🔷 1. SEO Strategy & Content Systems
 
-- Platform: LinkedIn, Blog, Conferences  
-- Profile: https://www.linkedin.com/in/aleyda/  
-- Focus: Technical SEO, international SEO  
-- Date Accessed: 2026  
-- Why selected:  
-  Aleyda is a leading SEO consultant focused on technical and international SEO. Her insights are highly relevant for understanding how search engines interpret and rank content globally.
+These experts focus on SEO strategy, content creation, and scalable content workflows.
 
 ---
 
-## 2. Lily Ray
-
-- Platform: LinkedIn, Conferences  
-- Profile: https://www.linkedin.com/in/lily-ray-44755615/  
-- Focus: E-E-A-T, Google algorithm updates, SEO quality  
-- Date Accessed: 2026  
-- Why selected:  
-  Lily Ray specializes in Google algorithm analysis and E-E-A-T signals, which are critical for evaluating AI-generated content quality.
-
----
-
-## 3. Kevin Indig
+## Kevin Indig
 
 - Platform: LinkedIn, Blog  
-- Profile: https://www.linkedin.com/in/kevinindig/
-- Focus: SEO strategy, SaaS SEO, growth  
-- Date Accessed: 2026  
-- Why selected:  
-  Kevin Indig focuses on scalable SEO systems and how search evolves in AI-driven environments.
+- Profile: https://www.linkedin.com/in/kevin-indig/  
+- Role: SEO Strategy and Growth  
+- Relevance: HIGH  
+
+### Research Value
+Shares insights on SEO strategy, growth, and how search behavior evolves, especially in SaaS environments.
+
+### Why included in dataset
+Provides perspective on scalable SEO strategies and how content systems can support long-term growth.
 
 ---
 
-## 4. Mike King
-
-- Platform: LinkedIn, Blog  
-- Profile: https://www.linkedin.com/in/michaelkingphilly/  
-- Focus: Technical SEO, AI search, algorithm research  
-- Date Accessed: 2026  
-- Why selected:  
-  Mike King is known for deep technical SEO research and analysis of search engine behavior in AI systems.
-
----
-
-## 5. Patrick Stox
-
-- Platform: LinkedIn, Ahrefs  
-- Profile: https://www.linkedin.com/in/patrickstox/  
-- Focus: Technical SEO, search systems  
-- Date Accessed: 2026  
-- Why selected:  
-  Patrick Stox provides practical insights into how search engines crawl, index, and rank content.
-
----
-
-## 6. Ross Simmonds
+## Ross Simmonds
 
 - Platform: LinkedIn  
 - Profile: https://www.linkedin.com/in/rosssimmonds/  
-- Focus: Content distribution, SEO strategy  
-- Date Accessed: 2026  
-- Why selected:  
-  Ross Simmonds focuses on content amplification and distribution strategies, important for SEO performance.
+- Role: Content Marketing and Distribution  
+- Relevance: HIGH  
+
+### Research Value
+Focuses on content marketing and distribution strategies for B2B and digital brands.
+
+### Why included in dataset
+Highlights the importance of distribution in ensuring SEO content reaches the intended audience.
 
 ---
 
-## 7. Rand Fishkin
+## Julian Goldie
 
-- Platform: LinkedIn, Blog  
-- Profile: https://www.linkedin.com/in/randfishkin/  
-- Focus: SEO, audience research, search behavior  
-- Date Accessed: 2026  
-- Why selected:  
-  Rand Fishkin is a foundational SEO expert known for insights into search behavior and content discovery.
+- Platform: LinkedIn, YouTube  
+- Profile: https://www.linkedin.com/in/juliangoldieseo/  
+- Role: SEO Practitioner and Content Automation  
+- Relevance: HIGH  
 
----
+### Research Value
+Shares practical approaches to using AI tools for SEO content creation and automation.
 
-## 8. Glenn Gabe
-
-- Platform: LinkedIn  
-- Profile: https://www.linkedin.com/in/glenngabe/  
-- Focus: Google updates, SEO recovery  
-- Date Accessed: 2026  
-- Why selected:  
-  Glenn Gabe specializes in analyzing Google algorithm updates and their impact on rankings.
+### Why included in dataset
+Directly relevant to AI-powered SEO content production and workflow-based content creation.
 
 ---
 
-## 9. Barry Schwartz
-
-- Platform: LinkedIn, Search Engine Roundtable  
-- Profile: https://www.linkedin.com/in/rustybrick/  
-- Focus: SEO news, Google updates  
-- Date Accessed: 2026  
-- Why selected:  
-  Barry Schwartz provides daily updates on search engine changes and SEO news.
-
----
-
-## 10. Neil Patel
+## Neil Patel
 
 - Platform: LinkedIn, Blog, YouTube  
 - Profile: https://www.linkedin.com/in/neilkpatel/  
-- Focus: Digital marketing, SEO, content strategy  
-- Date Accessed: 2026  
-- Why selected:  
-  Neil Patel is a widely known SEO practitioner sharing practical strategies for content and traffic growth.
+- Role: Digital Marketing and SEO  
+- Relevance: MEDIUM  
 
-  ---
+### Research Value
+Provides general SEO and digital marketing strategies, including content and traffic growth.
 
-  ## 11. Julian Goldie
+### Why included in dataset
+Represents widely used SEO practices and content strategies at scale.
 
-- Platform: LinkedIn, YouTube
-- Profile: https://www.linkedin.com/in/juliangoldieseo/
-- Focus: AI SEO, content automation, affiliate SEO, programmatic content
-- Date Accessed: 2026
-- Why selected:  
-  Julian Goldie focuses on AI-driven SEO workflows and scalable content systems. His work demonstrates how AI tools (ChatGPT, Perplexity, and automation pipelines) can be used to produce SEO content at scale while maintaining optimization quality.
+---
+
+# 🔷 2. Technical SEO & Search Systems
+
+These experts focus on how search engines crawl, index, and evaluate content.
+
+---
+
+## Aleyda Solis
+
+- Platform: LinkedIn, Blog, Conferences  
+- Profile: https://www.linkedin.com/in/aleyda/  
+- Role: SEO Consultant (Technical and International SEO)  
+- Relevance: HIGH  
+
+### Research Value
+Specializes in technical SEO and international search optimization across different markets.
+
+### Why included in dataset
+Provides foundational understanding of how search engines interpret and rank structured content.
+
+---
+
+## Mike King
+
+- Platform: LinkedIn, Blog  
+- Profile: https://www.linkedin.com/in/michaelkingphilly/  
+- Role: Technical SEO and Search Analysis  
+- Relevance: HIGH  
+
+### Research Value
+Focuses on technical SEO and analyzing how search systems operate.
+
+### Why included in dataset
+Offers insights into how search engines process and evaluate content.
+
+---
+
+## Patrick Stox
+
+- Platform: LinkedIn, Ahrefs  
+- Profile: https://www.linkedin.com/in/patrickstox/  
+- Role: Technical SEO  
+- Relevance: HIGH  
+
+### Research Value
+Shares practical insights on crawling, indexing, and technical SEO fundamentals.
+
+### Why included in dataset
+Helps explain the technical layer required for content to be discoverable in search engines.
+
+---
+
+## Glenn Gabe
+
+- Platform: LinkedIn  
+- Profile: https://www.linkedin.com/in/glenngabe/  
+- Role: SEO and Algorithm Analysis  
+- Relevance: HIGH  
+
+### Research Value
+Analyzes Google updates and their impact on website performance.
+
+### Why included in dataset
+Provides understanding of how search algorithm changes affect content visibility.
+
+---
+
+# 🔷 3. Search Trends & Industry Insights
+
+These experts focus on search trends, user behavior, and search engine updates.
+
+---
+
+## Lily Ray
+
+- Platform: LinkedIn, Conferences  
+- Profile: https://www.linkedin.com/in/lily-ray-44755615/  
+- Role: SEO Strategy and Analysis  
+- Relevance: HIGH  
+
+### Research Value
+Focuses on Google updates, content quality, and E-E-A-T principles.
+
+### Why included in dataset
+Important for understanding how content quality is evaluated in modern search systems.
+
+---
+
+## Rand Fishkin
+
+- Platform: LinkedIn, Blog  
+- Profile: https://www.linkedin.com/in/randfishkin/  
+- Role: Search and Audience Research  
+- Relevance: HIGH  
+
+### Research Value
+Explores search behavior, audience insights, and changes in how users interact with search engines.
+
+### Why included in dataset
+Provides context on how search behavior is evolving, including reduced click-through patterns.
+
+---
+
+## Barry Schwartz
+
+- Platform: LinkedIn, Search Engine Roundtable  
+- Profile: https://www.linkedin.com/in/rustybrick/  
+- Role: SEO News and Search Updates  
+- Relevance: MEDIUM  
+
+### Research Value
+Reports on ongoing changes in search engines and SEO trends.
+
+### Why included in dataset
+Helps track updates and trends that impact SEO strategies over time.
