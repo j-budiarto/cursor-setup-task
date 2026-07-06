@@ -118,7 +118,7 @@ All experts are active practitioners in SEO, content marketing, and AI-driven se
   ## 11. Julian Goldie
 
 - Platform: LinkedIn, YouTube
-- Profile: https://www.linkedin.com/in/juliangoldie/
+- Profile: https://www.linkedin.com/in/juliangoldieseo/
 - Focus: AI SEO, content automation, affiliate SEO, programmatic content
 - Date Accessed: 2026
 - Why selected:  
