@@ -112,3 +112,14 @@ All experts are active practitioners in SEO, content marketing, and AI-driven se
 - Date Accessed: 2026  
 - Why selected:  
   Neil Patel is a widely known SEO practitioner sharing practical strategies for content and traffic growth.
+
+  ---
+
+  ## 11. Julian Goldie
+
+- Platform: LinkedIn, YouTube
+- Profile: https://www.linkedin.com/in/juliangoldie/
+- Focus: AI SEO, content automation, affiliate SEO, programmatic content
+- Date Accessed: 2026
+- Why selected:  
+  Julian Goldie focuses on AI-driven SEO workflows and scalable content systems. His work demonstrates how AI tools (ChatGPT, Perplexity, and automation pipelines) can be used to produce SEO content at scale while maintaining optimization quality.
