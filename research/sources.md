@@ -14,7 +14,7 @@ These experts focus on SEO strategy, content creation, and scalable content work
 ## Kevin Indig
 
 - Platform: LinkedIn, Blog  
-- Profile: https://www.linkedin.com/in/kevin-indig/  
+- Profile: https://www.linkedin.com/in/kevinindig/  
 - Role: SEO Strategy and Growth  
 - Relevance: HIGH  
 
