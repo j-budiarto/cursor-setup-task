@@ -5,7 +5,7 @@ Each source was chosen based on their active work in SEO and relevance to AI-pow
 
 ---
 
-# 🔷 1. SEO Strategy & Content Systems
+# 1. SEO Strategy & Content Systems
 
 These experts focus on SEO strategy, content creation, and scalable content workflows.
 
@@ -71,7 +71,7 @@ Represents widely used SEO practices and content strategies at scale.
 
 ---
 
-# 🔷 2. Technical SEO & Search Systems
+# 2. Technical SEO & Search Systems
 
 These experts focus on how search engines crawl, index, and evaluate content.
 
@@ -137,7 +137,7 @@ Provides understanding of how search algorithm changes affect content visibility
 
 ---
 
-# 🔷 3. Search Trends & Industry Insights
+# 3. Search Trends & Industry Insights
 
 These experts focus on search trends, user behavior, and search engine updates.
 
