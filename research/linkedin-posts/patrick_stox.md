@@ -1,25 +1,11 @@
-# Crawling and Indexing Still Matter
-
+# Latest Post
+---
 ## Author
 Patrick Stox
 
 ## Source
-https://www.linkedin.com/in/patrickstox/
+https://www.linkedin.com/in/patrickstox/recent-activity/all/
 
 ## Post
 
-AI doesn’t replace technical SEO.
-
-If your site isn’t crawlable:
-It won’t rank.
-
-Basics still win:
-- clean structure
-- internal linking
-- proper indexing
-
-## Key Takeaways
-
-- Technical SEO is still essential
-- AI doesn’t fix bad site structure
-- Crawling and indexing remain critical
+I don't often post about our local SEO Meetups, but sometimes we go hard. This kind of stuff is never easy to pull off, but is so rewarding when we do. Thanks to Brian Crouch for working with us on this and Noah Learner for coming in. Also Matthew Kay, JR Oakes, Rob Delory for being awesome co-organizers.

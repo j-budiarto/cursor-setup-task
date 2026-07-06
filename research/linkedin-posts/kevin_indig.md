@@ -1,26 +1,19 @@
-# SEO in the Age of AI
-
+# Latest Post
+---
 ## Author
 Kevin Indig
 
 ## Source
-https://www.linkedin.com/in/kevin-indig/
+https://www.linkedin.com/in/kevinindig/recent-activity/all/
 
 ## Post
 
-SEO is shifting from keywords to entities.
+Publishing original data is necessary but not sufficient for AI citations. The format that actually gets cited is narrower than "original data wins."
 
-AI systems understand:
-- relationships
-- context
-- intent
+I pulled over 1,000 AI citations from Gauge's data and found one first-party format winning at scale: benchmarks.
 
-If your content is just keyword-stuffed, it won’t survive.
+A benchmark measures named things against each other on a specific yardstick, speed, cost, latency, and publishes the results as numbers. Hard to build, but worth it.
 
-Build content that answers real problems.
+Benchmark are assets because they deliver a number only your product can produce, packaged as a comparison a buyer can act on.
 
-## Key Takeaways
-
-- SEO is moving beyond keywords
-- AI focuses on context and intent
-- Problem-solving content performs better
+Full breakdown in this week's Growth Memo.

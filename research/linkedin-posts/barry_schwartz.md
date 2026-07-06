@@ -1,23 +1,11 @@
-# Tracking Google Changes
-
+# Latest Post
+---
 ## Author
 Barry Schwartz
 
 ## Source
-https://www.linkedin.com/in/rustybrick/
+https://www.linkedin.com/in/rustybrick/recent-activity/all/
 
 ## Post
 
-Google is constantly changing.
-
-If you’re not tracking updates:
-You’re guessing.
-
-Stay informed.
-Adapt fast.
-
-## Key Takeaways
-
-- SEO requires constant monitoring
-- Google updates frequently
-- Adaptability is key
+It's New 7/6: Google local reviews go missing, page indexing report is back unlike my power, Mordy Oberstein further explores AI Overviews and then Shopify app Merchant Center issues, and AI-generated ChatGPT Ads https://lnkd.in/gQ96jTwx

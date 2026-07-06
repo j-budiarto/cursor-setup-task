@@ -1,26 +1,11 @@
-# Scaling Content with AI
-
+# Latest Post
+---
 ## Author
 Neil Patel
 
 ## Source
-https://www.linkedin.com/in/neilkpatel/
+https://www.linkedin.com/in/neilkpatel/recent-activity/all/
 
 ## Post
 
-AI can speed up content creation.
-
-But speed alone doesn’t win.
-
-You still need:
-- strategy
-- keyword research
-- optimization
-
-AI is a tool, not a replacement.
-
-## Key Takeaways
-
-- AI improves efficiency
-- Strategy is still required
-- SEO fundamentals remain important
+You can't track LTV or customer acquisition cost without a system collecting the whole customer journey in one place. CRM, email, SMS, automations all logging into the same customer record. That's why some operators have these numbers and most don't. Once you can finally see them, the whole question changes from "make the ad work harder" to "make the relationship more valuable."

@@ -1,24 +1,19 @@
-# Content Distribution in SEO
-
+# Latest Post
+---
 ## Author
 Ross Simmonds
 
 ## Source
-https://www.linkedin.com/in/rosssimmonds/
+https://www.linkedin.com/in/rosssimmonds/recent-activity/all/
 
 ## Post
 
-Creating content is not enough.
+The metrics you tracked in 2023 are lying to you in 2026.
 
-Distribution is everything.
+Traffic is down. Rankings don’t matter the same way. But your brand is showing up in ChatGPT, Perplexity, Claude…
 
-If no one sees your content:
-It won’t rank.
+Welcome to the AI era. 
 
-SEO + distribution = growth
+Different game, different scoreboard.
 
-## Key Takeaways
-
-- Content needs distribution
-- Visibility drives performance
-- SEO and marketing must work together
+Save this for when your CMO asks why traffic dropped 👇

@@ -1,5 +1,5 @@
-# How AI Changes Search Behavior
-
+# Latest Post
+---
 ## Author
 Mike King
 
@@ -8,18 +8,8 @@ https://www.linkedin.com/in/michaelkingphilly/
 
 ## Post
 
-Search is no longer just links.
+The Profound team just launched their Agent Template Marketplace and we're thrilled to be founding contributors with some fantastic workflows built by the Patrick Schofield. 
 
-AI systems summarize answers directly.
+If you're a Profound user, you can do some automated relevance engineering with the SERP Content Gap Analyzer, Explanatory Power Audit, Robots.txt & LLMs.txt Auditor. 
 
-That means:
-- fewer clicks
-- more competition for visibility
-
-Your goal is to be the source AI trusts.
-
-## Key Takeaways
-
-- AI reduces traditional clicks
-- Visibility depends on trust signals
-- Content must be authoritative
+Link to the template library in the first comment and much more to come!
